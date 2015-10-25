@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesSys.UI", "GamesSys.UI\GamesSys.UI.csproj", "{0979BF75-757B-4EEF-B543-4DAF7F46C141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesSys.Logic", "GamesSys.Logic\GamesSys.Logic.csproj", "{C15017DD-757C-4563-B31C-829A8D530D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesSys.Tests", "GamesSys.Tests\GamesSys.Tests.csproj", "{47CA7C15-0B7F-440A-85C4-295C7D459C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0979BF75-757B-4EEF-B543-4DAF7F46C141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0979BF75-757B-4EEF-B543-4DAF7F46C141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0979BF75-757B-4EEF-B543-4DAF7F46C141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0979BF75-757B-4EEF-B543-4DAF7F46C141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15017DD-757C-4563-B31C-829A8D530D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15017DD-757C-4563-B31C-829A8D530D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15017DD-757C-4563-B31C-829A8D530D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15017DD-757C-4563-B31C-829A8D530D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CA7C15-0B7F-440A-85C4-295C7D459C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CA7C15-0B7F-440A-85C4-295C7D459C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CA7C15-0B7F-440A-85C4-295C7D459C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CA7C15-0B7F-440A-85C4-295C7D459C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
